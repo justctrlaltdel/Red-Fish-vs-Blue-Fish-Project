@@ -1,0 +1,2 @@
+# Red-Fish-vs-Blue-Fish-Project
+We hacked into a vulnerable system using the vulnerabilities that the system had.  We used a reverse shell file to gain access to the root user who had all the company passwords saved in the company website.  We then transferred all the hacking events to our kibana logs where we analyzed the data of the attack and built a plan to mitigate future attacks. The vulnerability gave us access to the password folder and root access. This caused a huge impact to the employees working due to the possibility of a DDOS or root level attack.
